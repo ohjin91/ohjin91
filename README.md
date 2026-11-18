@@ -6,8 +6,8 @@
 
 <img src="assets/walking-kid.gif" alt="Anak berjalan di jalan setapak dengan pemandangan gunung, awan, pohon, dan rumah" width="100%" />
 
-[![GitHub followers](https://img.shields.io/github/followers/USERNAME?style=for-the-badge&logo=github&label=Followers)](https://github.com/USERNAME)
-[![GitHub stars](https://img.shields.io/github/stars/USERNAME?style=for-the-badge&logo=github&label=Stars)](https://github.com/USERNAME?tab=repositories)
+[![GitHub followers](https://img.shields.io/github/followers/ohjin91?style=for-the-badge&logo=github&label=Followers)](https://github.com/ohjin91)
+[![GitHub stars](https://img.shields.io/github/stars/ohjin91?style=for-the-badge&logo=github&label=Stars)](https://github.com/ohjin91?tab=repositories)
 [![Status](https://img.shields.io/badge/Status-Open%20to%20collaborate-brightgreen?style=for-the-badge)](mailto:jakaindralaya@gmail.com)
 
 </div>
@@ -117,6 +117,6 @@ Produk live yang sudah dirilis dan bisa dicoba langsung:
 
 > Dibangun dengan ☕, 💻, dan bantuan 🤖 AI.
 
-![Visitor Count](https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=brightgreen)
+![Visitor Count](https://komarev.com/ghpvc/?username=ohjin91&style=flat-square&color=brightgreen)
 
 </div>
