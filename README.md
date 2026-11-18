@@ -107,7 +107,7 @@ Produk live yang sudah dirilis dan bisa dicoba langsung:
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analisa
 
 <div align="center">
 
