@@ -107,6 +107,40 @@ Produk live yang sudah dirilis dan bisa dicoba langsung:
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ohjin91&show_icons=true&theme=github_dark&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=ohjin91&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="467">
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ohjin91&layout=compact&langs_count=6&theme=github_dark&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohjin91&layout=compact&langs_count=6&theme=default&hide_border=true" alt="Top Languages" width="467">
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ohjin91&theme=github-dark&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=ohjin91&theme=github-light&hide_border=true" alt="GitHub Streak" width="467">
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ohjin91&theme=github-dark&hide_border=true&height=250">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ohjin91&theme=github&hide_border=true&height=250" alt="Activity Graph" width="100%">
+</picture>
+
+</div>
+
+---
+
 ## 📫 Hubungi Saya
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jakaindralaya@gmail.com)
