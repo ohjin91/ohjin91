@@ -41,6 +41,7 @@ Saya adalah **solo developer** yang memanfaatkan **AI assistant** sebagai partne
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black)
 
@@ -86,7 +87,7 @@ Saya adalah **solo developer** yang memanfaatkan **AI assistant** sebagai partne
 
 - 🌐 **Web Apps**: dashboard admin, SaaS, e-commerce, marketplace, company profile, landing page, dan PWA
 - 📱 **Mobile Apps**: iOS & Android via Flutter / React Native
-- 🔌 **API & Backend**: REST/GraphQL dengan Go & Node.js, autentikasi, payment gateway, dan integrasi pihak ketiga
+- 🔌 **API & Backend**: REST/GraphQL dengan Go, Node.js & Laravel, autentikasi, payment gateway, dan integrasi pihak ketiga
 - ☁️ **Cloud & Infra**: deploy dan optimasi di Cloudflare, Vercel, serta container Docker
 - 🗄️ **Database**: PostgreSQL dan Supabase (auth, storage, realtime)
 - 🤖 **Otomasi**: script, bot, dan workflow untuk hemat waktu
