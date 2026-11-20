@@ -6,7 +6,7 @@
 <img
   src="https://raw.githubusercontent.com/JoshuaThadi/Wall-E-Desk/main/Live%20Wallpapers/luffy1.gif"
   width="100%"
-  height="300"
+  height="450"
   alt="Luffy GIF"
 />
 
