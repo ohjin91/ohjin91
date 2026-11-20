@@ -3,11 +3,7 @@
 # 👋 Halo, saya Jaka Indralaya
 
 ### Solo Developer × AI Assistant: membangun web & app dari ide sampai produksi.
-<img
-  src="https://raw.githubusercontent.com/JoshuaThadi/Wall-E-Desk/refs/heads/main/Pixel-Art/snow.gif"
-  width="100%"
-  alt="Luffy GIF"
-/>
+<img src="https://raw.githubusercontent.com/JoshuaThadi/Wall-E-Desk/refs/heads/main/Pixel-Art/snow.gif" width="100%" alt="Snow GIF" title="JoshuaThadi" />
 
 [![GitHub followers](https://img.shields.io/github/followers/ohjin91?style=for-the-badge&logo=github&label=Followers)](https://github.com/ohjin91)
 [![GitHub stars](https://img.shields.io/github/stars/ohjin91?style=for-the-badge&logo=github&label=Stars)](https://github.com/ohjin91?tab=repositories)
