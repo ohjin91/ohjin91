@@ -3,8 +3,11 @@
 # 👋 Halo, saya Jaka Indralaya
 
 ### Solo Developer × AI Assistant: membangun web & app dari ide sampai produksi.
-
-<img src="assets/walking-kid.gif" alt="Anak berjalan di jalan setapak dengan pemandangan gunung, awan, pohon, dan rumah" width="100%" />
+<img
+  src="https://raw.githubusercontent.com/JoshuaThadi/Wall-E-Desk/main/Live%20Wallpapers/luffy1.gif"
+  alt="Luffy animation"
+  width="100%"
+/>
 
 [![GitHub followers](https://img.shields.io/github/followers/ohjin91?style=for-the-badge&logo=github&label=Followers)](https://github.com/ohjin91)
 [![GitHub stars](https://img.shields.io/github/stars/ohjin91?style=for-the-badge&logo=github&label=Stars)](https://github.com/ohjin91?tab=repositories)
