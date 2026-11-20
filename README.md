@@ -4,9 +4,9 @@
 
 ### Solo Developer × AI Assistant: membangun web & app dari ide sampai produksi.
 <img
-  src="https://raw.githubusercontent.com/JoshuaThadi/Wall-E-Desk/main/Live%20Wallpapers/luffy1.gif"
+  src="https://raw.githubusercontent.com/JoshuaThadi/Wall-E-Desk/refs/heads/main/Pixel-Art/snow.gif"
   width="100%"
-  height="450"
+  <!-- height="450" -->
   alt="Luffy GIF"
 />
 
