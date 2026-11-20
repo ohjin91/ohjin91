@@ -5,8 +5,9 @@
 ### Solo Developer × AI Assistant: membangun web & app dari ide sampai produksi.
 <img
   src="https://raw.githubusercontent.com/JoshuaThadi/Wall-E-Desk/main/Live%20Wallpapers/luffy1.gif"
-  alt="Luffy animation"
   width="100%"
+  height="300"
+  alt="Luffy GIF"
 />
 
 [![GitHub followers](https://img.shields.io/github/followers/ohjin91?style=for-the-badge&logo=github&label=Followers)](https://github.com/ohjin91)
