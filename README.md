@@ -132,7 +132,7 @@ Produk live yang sudah dirilis dan bisa dicoba langsung:
 
 <div align="center">
 
-> Dibangun dengan ☕, 💻, dan bantuan 🤖 AI.
+> Dibangun dengan ☕, 💻, dan bantuan AI.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ohjin91&style=flat-square&color=brightgreen)
 
